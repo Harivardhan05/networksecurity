@@ -1,0 +1,10 @@
+artifact_location: file:///D:/UDemy/NetworkSecurity/mlruns/0/models/m-d9baba53f9c24eb2b01f2bc916fad972/artifacts
+creation_timestamp: 1759913215382
+experiment_id: '0'
+last_updated_timestamp: 1759913225598
+model_id: m-d9baba53f9c24eb2b01f2bc916fad972
+model_type: null
+name: model
+source_run_id: 7176743a78544f7ab4d0c01dcdfc97d1
+status: 2
+status_message: null
