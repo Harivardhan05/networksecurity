@@ -14,3 +14,6 @@ threadpoolctl==3.6.0
 tzdata==2025.2
 pyaml
 mlflow
+dagshub
+fastapi
+uvicorn
